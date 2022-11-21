@@ -1,7 +1,7 @@
 # IP_Pinger
 tool to ping some IPs 
 
-yoz can use 
+you can use 
 
 192.168.1.25
 192.168.1.154
